@@ -8,7 +8,6 @@
 ## Our Social media 
 
 [Telegram channel](https://t.me/theforest_saceit).
-
 [TikTok](https://www.tiktok.com/@steep_circle).
 
 ## Description
