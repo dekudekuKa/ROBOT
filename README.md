@@ -1,7 +1,3 @@
-Here's an example of the **README** file for your robot project in English:
-
----
-
 # PS2 Tank Robot Controller
 
 **Author**: SACEIT (https://saceit.org.ua)
