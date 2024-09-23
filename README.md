@@ -1,7 +1,14 @@
 # PS2 Tank Robot Controller
 
-**Author**: [SACEIT](https://saceit.org.ua)
+**Author**: [SACEIT](https://saceit.org.ua) 
 **Based on the PS2X library example by Bill Porter (2011)**
+
+**All personal/business inquiries to karpa.work@gmail.com**
+
+## Our Social media 
+
+[Telegram channel](https://t.me/theforest_saceit)
+[TikTok](
 
 ## Description
 
